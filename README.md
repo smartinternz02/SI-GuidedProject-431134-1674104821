@@ -3,5 +3,4 @@ Predictive Models for Estimating Impurities in Iron Ore using Machine Learning
 
 Video link about project
 
-
-https://drive.google.com/file/d/1LYAZ8Wn85ywQW7oFa86AuTmVk23MTmAJ/view?usp=share_link
+https://drive.google.com/file/d/1B7lHd2kWCbmSU6pSxZpAPSlOj07vyiRL/view?usp=share_link
